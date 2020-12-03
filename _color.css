@@ -1,0 +1,27 @@
+.blue {
+    --color: #2196f3 !important ;
+}
+
+.green {
+    --color: #28ec42 !important ;
+}
+
+.red {
+    --color: #e20d0d !important ;
+    color: rgb(250, 202, 202) !important;
+}
+
+.orange {
+    --color: #f1540b !important ;
+    color: rgb(250, 202, 202) !important;
+}
+
+.white {
+    --color: #fff !important ;
+    color: rgb(174, 213, 219) !important;
+}
+
+.gold {
+    --color: gold !important ;
+    color: rgb(236, 233, 205) !important;
+}
